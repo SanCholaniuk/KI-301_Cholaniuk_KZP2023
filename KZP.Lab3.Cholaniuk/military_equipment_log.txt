@@ -1,0 +1,45 @@
+Name: Tactical Harness
+Weight: 1200.0 g
+Price: $250.0
+Description: High-quality tactical harness for military alpinists
+
+Name: Climbing Helmet
+Weight: 800.0 g
+Price: $150.0
+Description: Durable climbing helmet with night vision mount
+
+Name: Rope Ladder
+Weight: 1500.0 g
+Price: $300.0
+Description: Special rope ladder for covert operations
+
+Назва: Tactical Harness
+Вага: 1200.0 g
+Ціна: $250.0
+Опис: High-quality tactical harness for military alpinists
+
+Назва: Climbing Helmet
+Вага: 800.0 g
+Ціна: $150.0
+Опис: Durable climbing helmet with night vision mount
+
+Назва: Rope Ladder
+Вага: 1500.0 g
+Ціна: $300.0
+Опис: Special rope ladder for covert operations
+
+Назва: Тактичний ремінь
+Вага: 1200.0 g
+Ціна: $250.0
+Опис: Якісна тактична упряж для військових альпіністів
+
+Назва: Шолом для скелелазіння
+Вага: 800.0 g
+Ціна: $150.0
+Опис: Міцний альпіністський шолом з кріпленням нічного бачення
+
+Назва: Мотузкова драбина
+Вага: 1500.0 g
+Ціна: $300.0
+Опис: Спеціальна мотузкова драбина для таємних операцій
+
